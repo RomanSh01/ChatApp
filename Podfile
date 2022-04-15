@@ -15,7 +15,6 @@ target 'Chat' do
   # Pods for Chat
 pod 'Firebase/Analytics'
 pod 'Firebase/Auth'
-pod 'Firebase/Firestore'
 inhibit_all_warnings!
 pod 'Firebase/Firestore'
 pod 'Firebase/Storage'
