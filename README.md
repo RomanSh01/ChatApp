@@ -1,10 +1,15 @@
 # ChatApp
 
 Layout:&nbsp;  &nbsp;  &nbsp;  Firebase:
+
 NSLayoutAnchor &nbsp;  &nbsp;  Email Aithentication
+
 StackView &nbsp;  &nbsp;  &nbsp;  Store user data  with Firestore
+
 CompositionalLayout &nbsp;  &nbsp;  Strore image with Cloud Strorage
+
 DiffableDataSourse
+
 Message Kit
 
 Sign in & Register
