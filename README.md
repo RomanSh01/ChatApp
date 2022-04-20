@@ -1,16 +1,10 @@
 # ChatApp
 
-Layout:&nbsp;  &nbsp;  &nbsp;  Firebase:
+Layout: NSLayoutAnchor, StackView, CompositionalLayout, DiffableDataSourse, Message Kit
 
-NSLayoutAnchor &nbsp;  &nbsp;  Email Aithentication
+Firebase: Email Aithentication, Store user data  with Firestore, Strore image with Cloud Strorage
 
-StackView &nbsp;  &nbsp;  &nbsp;  Store user data  with Firestore
-
-CompositionalLayout &nbsp;  &nbsp;  Strore image with Cloud Strorage
-
-DiffableDataSourse
-
-Message Kit
+Core features: User profile setup, Global users search,  Chat request View, Waiting/Active chats
 
 Sign in & Register
 
