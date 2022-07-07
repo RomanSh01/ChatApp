@@ -2,9 +2,9 @@
 
 Layout: NSLayoutAnchor, StackView, CompositionalLayout, DiffableDataSourse, Message Kit
 
-Firebase: Email Aithentication, Store user data  with Firestore, Strore image with Cloud Strorage
+Firebase: Email Aithentication, store user data  with Firestore, strore image with Cloud Strorage
 
-Core features: User profile setup, Global users search,  Chat request View, Waiting/Active chats
+Core features: User profile setup, global users search,  chat request view, Waiting/Active chats
 
 <h1>Sign in & Register</h1>
 
